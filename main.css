@@ -316,10 +316,10 @@ border: 1px solid #E6EAF4;
         font-weight: 600;
 }
 .button-container button:hover {
-    background-color: #f39200;
+    background-color: #f6980c;
     box-shadow: 0 16px 36px rgba(246 152 12 / 20%);
     transition: background-color 0.1s ease-out;
-
+}
 @keyframes rotate {
     0%{
         transform: rotate(0deg);
@@ -369,6 +369,7 @@ border: 1px solid #E6EAF4;
     .promo__right {
         padding: 115px 60px;
  }
+}
   
  /* Мобильные устройства */
  @media (max-width: 720px) {
