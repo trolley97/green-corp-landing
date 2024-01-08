@@ -290,6 +290,9 @@ border: 1px solid #E6EAF4;
     font-weight: 500;
     border-radius: 25px; /* Скругление радиусом 25px */
 }
+.promo__right__card h2 {
+    line-height: 32px;
+}
 .promo__right__card p {
         opacity: 0.8; /* Полупрозрачность текста абзацев */
         margin-top: 0; /* Убираем внешний отступ сверху у первого абзаца */
