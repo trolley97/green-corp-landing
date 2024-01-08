@@ -428,8 +428,7 @@ border: 1px solid #E6EAF4;
     }
     .features__feedback {
     flex-direction: column;
-    padding-left: 40px;
-    padding-right: 40px;
+
     }
     .features__feedback-left {
         margin-right: 0px;
@@ -445,7 +444,7 @@ border: 1px solid #E6EAF4;
         font-size: 36px;
     }
     .features__feedback-right {
-        margin-top: 50px;
+        
     }
     .promo__image {
         width: 100%;
